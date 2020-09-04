@@ -1,3 +1,9 @@
+---
+layout: default
+has_children: true
+nav_order: 9
+---
+
 # Development
 
 ## Build and test the installer for development
